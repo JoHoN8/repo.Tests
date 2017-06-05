@@ -16,3 +16,19 @@ v3 second bug fix
 v3 super bug
 
 new feature done v3.2
+
+launch is good\
+
+adding feature to master branch
+a new feature
+had a bug, but i fixed it
+
+
+more new stuff on feature
+awesome
+changes
+
+ok now then
+f1 tests branch
+
+some more after milestone
