@@ -14,6 +14,7 @@ v3 setup
 v3 bug fix
 v3 second bug fix
 v3 super bug
+fixing another bug in 3.1.0
 
 new feature done v3.2
 
