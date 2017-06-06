@@ -32,3 +32,7 @@ ok now then
 f1 tests branch
 
 some more after milestone
+
+ok, cleanup went well
+woohoo
+going to do a pull request
