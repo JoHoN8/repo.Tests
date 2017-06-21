@@ -12,3 +12,8 @@ going to cause
 
 bug fix
 bug fix 2
+
+
+ok new stuff
+commit for squash
+commit2 for squash
