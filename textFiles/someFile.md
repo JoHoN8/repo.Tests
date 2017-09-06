@@ -25,3 +25,8 @@ omg more for you
 enhance is going to be another spiker
 
 going to cause
+
+
+ok new stuff
+commit for squash
+commit2 for squash
